@@ -1,0 +1,8 @@
+
+write a program that will perform the following:
+i. ask if a user wants to run a test by selecting 1 or to end a program by selecting 2
+ii. if the user decides to run a test, ask the user for the total number of classes held
+ and the total number of classes attended
+iii. print if the user is permitted to sit for an exam or not given that the requirement
+ is at least 75% attendance
+iii. print the percentage  
